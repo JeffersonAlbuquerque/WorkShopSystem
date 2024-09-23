@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 3259d7521b11b764ca88176da42bd151
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blistac
+    100002: bonnet_dam
+    100004: bonnet_dum
+    100006: bonnet_ok
+    100008: boot_dummy
+    100010: boot_ok
+    100012: boot_ok_da
+    100014: bump_fro01
+    100016: bump_fro02
+    100018: bump_front
+    100020: bump_rea01
+    100022: bump_rea02
+    100024: bump_rear_
+    100026: chassis
+    100028: chassis_du
+    100030: Collision
+    100032: Default
+    100034: Default01
+    100036: Default02
+    100038: Default03
+    100040: door_lf_da
+    100042: door_lf_du
+    100044: door_lf_ok
+    100046: door_rf_da
+    100048: door_rf_du
+    100050: door_rf_ok
+    100052: engine
+    100054: exhaust
+    100056: exhaust_ok
+    100058: extra1
+    100060: FBumper
+    100062: FBumper01
+    100064: FBumper02
+    100066: FBumper03
+    100068: //RootNode
+    100070: headligh01
+    100072: headlights
+    100074: lant
+    100076: LFDoor
+    100078: LFDoor01
+    100080: LFDoor02
+    100082: LFWing
+    100084: ped_arm
+    100086: ped_fronts
+    100088: petrolcap
+    100090: plate_faro
+    100092: plate_fr01
+    100094: plate_fron
+    100096: plate_re01
+    100098: plate_rear
+    100100: RBumper
+    100102: RBumper01
+    100104: RBumper02
+    100106: RFDoor
+    100108: RFDoor01
+    100110: RFDoor02
+    100112: RFDoor03
+    100114: RFDoor04
+    100116: RFWing
+    100118: Shadow
+    100120: SUSP_F
+    100122: taillights
+    100124: ug_bonne01
+    100126: ug_bonne02
+    100128: ug_bonne03
+    100130: ug_bonne04
+    100132: ug_bonnet
+    100134: ug_bonnet_
+    100136: ug_lights
+    100138: ug_lights_
+    100140: ug_nitro
+    100142: ug_roof
+    100144: ug_spoil01
+    100146: ug_spoiler
+    100148: ug_wing_le
+    100150: ug_wing_ri
+    100152: Volante
+    100154: wheel
+    100156: wheel_lb_d
+    100158: wheel_lf_d
+    100160: wheel_rb_d
+    100162: wheel_rf_d
+    100164: windscre01
+    100166: windscre02
+    100168: windscreen
+    100170: wing_lf_da
+    100172: wing_lf_du
+    100174: wing_lf_ok
+    100176: wing_rf_da
+    100178: wing_rf_du
+    100180: wing_rf_ok
+    400000: blistac
+    400002: bonnet_dam
+    400004: bonnet_dum
+    400006: bonnet_ok
+    400008: boot_dummy
+    400010: boot_ok
+    400012: boot_ok_da
+    400014: bump_fro01
+    400016: bump_fro02
+    400018: bump_front
+    400020: bump_rea01
+    400022: bump_rea02
+    400024: bump_rear_
+    400026: chassis
+    400028: chassis_du
+    400030: Collision
+    400032: Default
+    400034: Default01
+    400036: Default02
+    400038: Default03
+    400040: door_lf_da
+    400042: door_lf_du
+    400044: door_lf_ok
+    400046: door_rf_da
+    400048: door_rf_du
+    400050: door_rf_ok
+    400052: engine
+    400054: exhaust
+    400056: exhaust_ok
+    400058: extra1
+    400060: FBumper
+    400062: FBumper01
+    400064: FBumper02
+    400066: FBumper03
+    400068: //RootNode
+    400070: headligh01
+    400072: headlights
+    400074: lant
+    400076: LFDoor
+    400078: LFDoor01
+    400080: LFDoor02
+    400082: LFWing
+    400084: ped_arm
+    400086: ped_fronts
+    400088: petrolcap
+    400090: plate_faro
+    400092: plate_fr01
+    400094: plate_fron
+    400096: plate_re01
+    400098: plate_rear
+    400100: RBumper
+    400102: RBumper01
+    400104: RBumper02
+    400106: RFDoor
+    400108: RFDoor01
+    400110: RFDoor02
+    400112: RFDoor03
+    400114: RFDoor04
+    400116: RFWing
+    400118: Shadow
+    400120: SUSP_F
+    400122: taillights
+    400124: ug_bonne01
+    400126: ug_bonne02
+    400128: ug_bonne03
+    400130: ug_bonne04
+    400132: ug_bonnet
+    400134: ug_bonnet_
+    400136: ug_lights
+    400138: ug_lights_
+    400140: ug_nitro
+    400142: ug_roof
+    400144: ug_spoil01
+    400146: ug_spoiler
+    400148: ug_wing_le
+    400150: ug_wing_ri
+    400152: Volante
+    400154: wheel
+    400156: wheel_lb_d
+    400158: wheel_lf_d
+    400160: wheel_rb_d
+    400162: wheel_rf_d
+    400164: windscre01
+    400166: windscre02
+    400168: windscreen
+    400170: wing_lf_da
+    400172: wing_lf_du
+    400174: wing_lf_ok
+    400176: wing_rf_da
+    400178: wing_rf_du
+    400180: wing_rf_ok
+    2100000: Matte_ FFCCCCCC_
+    2100002: Matte_ FF171717
+    2100004: tex_0002_0 [env_
+    2100006: 3sdm [sec,env_9,
+    2100008: tex_0002_0 [en01
+    2100010: tex_0002_0 [prim
+    2100012: tex_0032_0 [spec
+    2100014: tex_0001_0 [spec
+    2100016: Matte_ 87808080_
+    2100018: brasilpla [env_1
+    2100020: mercosul [env_9,
+    2100022: tex_0029_0 [spec
+    2100024: vehiclelights128
+    2100026: Matte_ A9000000_
+    2100028: Matte_ FFCCCCCC
+    2100030: tex_0001_0
+    2100032: tex_0005_0 [spec
+    2100034: tex_0006_0 [spec
+    2100036: tex_0002_0 [spec
+    2100038: tex_0027_0
+    2100040: cores [spec]
+    2100042: chassis
+    2100044: vehiclelights101
+    2100046: niggamacedo
+    2100048: chassis [prim,en
+    2100050: vehiclelights102
+    2100052: Default Material
+    2300000: bonnet_dam
+    2300002: bonnet_ok
+    2300004: boot_ok
+    2300006: boot_ok_da
+    2300008: bump_fro01
+    2300010: bump_fro02
+    2300012: bump_rea01
+    2300014: bump_rea02
+    2300016: chassis
+    2300018: Collision
+    2300020: door_lf_da
+    2300022: door_lf_ok
+    2300024: door_rf_da
+    2300026: door_rf_ok
+    2300028: exhaust_ok
+    2300030: extra1
+    2300032: lant
+    2300034: plate_faro
+    2300036: plate_fr01
+    2300038: plate_fron
+    2300040: plate_re01
+    2300042: plate_rear
+    2300044: Shadow
+    2300046: SUSP_F
+    2300048: Volante
+    2300050: wheel
+    2300052: windscre01
+    2300054: windscre02
+    2300056: wing_lf_da
+    2300058: wing_lf_ok
+    2300060: wing_rf_da
+    2300062: wing_rf_ok
+    3300000: bonnet_dam
+    3300002: bonnet_ok
+    3300004: boot_ok
+    3300006: boot_ok_da
+    3300008: bump_fro01
+    3300010: bump_fro02
+    3300012: bump_rea01
+    3300014: bump_rea02
+    3300016: chassis
+    3300018: Collision
+    3300020: door_lf_da
+    3300022: door_lf_ok
+    3300024: door_rf_da
+    3300026: door_rf_ok
+    3300028: exhaust_ok
+    3300030: extra1
+    3300032: lant
+    3300034: plate_faro
+    3300036: plate_fr01
+    3300038: plate_fron
+    3300040: plate_re01
+    3300042: plate_rear
+    3300044: Shadow
+    3300046: SUSP_F
+    3300048: Volante
+    3300050: wheel
+    3300052: windscre01
+    3300054: windscre02
+    3300056: wing_lf_da
+    3300058: wing_lf_ok
+    3300060: wing_rf_da
+    3300062: wing_rf_ok
+    4300000: wheel
+    4300002: bump_fro01
+    4300004: plate_faro
+    4300006: plate_fron
+    4300008: bump_fro02
+    4300010: plate_fr01
+    4300012: bonnet_ok
+    4300014: bonnet_dam
+    4300016: bump_rea01
+    4300018: plate_rear
+    4300020: bump_rea02
+    4300022: plate_re01
+    4300024: wing_lf_ok
+    4300026: wing_lf_da
+    4300028: wing_rf_ok
+    4300030: wing_rf_da
+    4300032: boot_ok
+    4300034: boot_ok_da
+    4300036: door_lf_da
+    4300038: door_lf_ok
+    4300040: door_rf_ok
+    4300042: door_rf_da
+    4300044: windscre01
+    4300046: windscre02
+    4300048: extra1
+    4300050: Volante
+    4300052: chassis
+    4300054: exhaust_ok
+    4300056: lant
+    4300058: SUSP_F
+    4300060: Collision
+    4300062: Shadow
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
