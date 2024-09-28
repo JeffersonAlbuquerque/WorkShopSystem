@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 33664189b6da89a42b9ad246a0dd66f1
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e4f85d59d3c318e6a71acd26a0b83152
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -61.510254, y: 41.429893, z: -106.54355}
+      lookAt: {x: 167.33017, y: -46.26478, z: 167.4744}
+      up: {x: 0.15290828, y: 0.97113085, z: 0.18309534}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alto Falante#1
+    100002: Alto Falante#1 1
+    100004: //RootNode
+    100006: Component#2
+    100008: Component#2 1
+    100010: Component#2 2
+    100012: Component#2 3
+    400000: Alto Falante#1
+    400002: Alto Falante#1 1
+    400004: //RootNode
+    400006: Component#2
+    400008: Component#2 1
+    400010: Component#2 2
+    400012: Component#2 3
+    2300000: Alto Falante#1
+    2300002: Alto Falante#1 1
+    2300004: //RootNode
+    2300006: Component#2
+    2300008: Component#2 1
+    2300010: Component#2 2
+    2300012: Component#2 3
+    3300000: Alto Falante#1
+    3300002: Alto Falante#1 1
+    3300004: //RootNode
+    3300006: Component#2
+    3300008: Component#2 1
+    3300010: Component#2 2
+    3300012: Component#2 3
+    4300000: Mesh Caixa 7
+    4300002: Mesh Component#2
+    4300004: Mesh Alto Falante#1
+    4300006: Mesh Alto Falante#1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ALTO FALANTE RCB IMAGEM
+    second: {fileID: 2100000, guid: 104b0ec49c0f52a4d810f20422314324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M00
+    second: {fileID: 2100000, guid: 3ccfedb8ddc77974a9a4558f87784ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JBB PNG
+    second: {fileID: 2100000, guid: b890be7e8814c634aa38c3ac3887a764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]1'
+    second: {fileID: 2100000, guid: e873c68c06cd98a4d84021c188175a78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: a0cf3b110db0cdb4485356712c21b7ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: 6cef366b497fb58479c62eaf15d9f3e9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: cd0911014b3b0554798f7e74f96b4e29
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Carretinha
+    100002: //RootNode
+    100004: chassis
+    100006: chassis_du
+    100008: chassis_vl
+    100010: Collision
+    100012: Default
+    100014: Default01
+    100016: Default02
+    100018: Default03
+    100020: Default04
+    100022: Default05
+    100024: Default06
+    100026: Default07
+    100028: Default08
+    100030: Default09
+    100032: Default10
+    100034: Default11
+    100036: Default12
+    100038: Default13
+    100040: Default14
+    100042: Default15
+    100044: Default16
+    100046: Default17
+    100048: Default18
+    100050: Default19
+    100052: Default20
+    100054: Default21
+    100056: Default22
+    100058: Default23
+    100060: Default24
+    100062: Default25
+    100064: Default26
+    100066: Default27
+    100068: Default28
+    100070: Default29
+    100072: Default30
+    100074: Default31
+    100076: Default32
+    100078: Default33
+    100080: Default34
+    100082: Default35
+    100084: Default36
+    100086: Default37
+    100088: Default38
+    100090: Default39
+    100092: Default40
+    100094: Default41
+    100096: Default42
+    100098: Default43
+    100100: Default44
+    100102: Default45
+    100104: hookup
+    100106: misc_a
+    100108: Shadow
+    100110: Wheel
+    100112: wheel_lb_d
+    100114: wheel_lf_d
+    100116: wheel_rb_d
+    100118: wheel_rf_d
+    400000: Carretinha
+    400002: //RootNode
+    400004: chassis
+    400006: chassis_du
+    400008: chassis_vl
+    400010: Collision
+    400012: Default
+    400014: Default01
+    400016: Default02
+    400018: Default03
+    400020: Default04
+    400022: Default05
+    400024: Default06
+    400026: Default07
+    400028: Default08
+    400030: Default09
+    400032: Default10
+    400034: Default11
+    400036: Default12
+    400038: Default13
+    400040: Default14
+    400042: Default15
+    400044: Default16
+    400046: Default17
+    400048: Default18
+    400050: Default19
+    400052: Default20
+    400054: Default21
+    400056: Default22
+    400058: Default23
+    400060: Default24
+    400062: Default25
+    400064: Default26
+    400066: Default27
+    400068: Default28
+    400070: Default29
+    400072: Default30
+    400074: Default31
+    400076: Default32
+    400078: Default33
+    400080: Default34
+    400082: Default35
+    400084: Default36
+    400086: Default37
+    400088: Default38
+    400090: Default39
+    400092: Default40
+    400094: Default41
+    400096: Default42
+    400098: Default43
+    400100: Default44
+    400102: Default45
+    400104: hookup
+    400106: misc_a
+    400108: Shadow
+    400110: Wheel
+    400112: wheel_lb_d
+    400114: wheel_lf_d
+    400116: wheel_rb_d
+    400118: wheel_rf_d
+    2300000: chassis
+    2300002: chassis_vl
+    2300004: Collision
+    2300006: misc_a
+    2300008: Shadow
+    2300010: Wheel
+    3300000: chassis
+    3300002: chassis_vl
+    3300004: Collision
+    3300006: misc_a
+    3300008: Shadow
+    3300010: Wheel
+    4300000: chassis
+    4300002: chassis_vl
+    4300004: misc_a
+    4300006: Wheel
+    4300008: Collision
+    4300010: Shadow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Material
+    second: {fileID: 2100000, guid: aa54adb0d574e7541a18c72d2201233e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF000000
+    second: {fileID: 2100000, guid: 94f78e66237b4754899189b425aa4f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FFCCCCCC
+    second: {fileID: 2100000, guid: 79b37e27fba06804294bcb6d7796873c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FFCCCCCC_
+    second: {fileID: 2100000, guid: 832d7d581a165164c919f37817bcb286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alu
+    second: {fileID: 2100000, guid: 6924678db77f511498150bc3b1ade32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brilho
+    second: {fileID: 2100000, guid: 3e7128d622b12e54a9e658598bababd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fg [juninho 3d]_
+    second: {fileID: 2100000, guid: d4077ec424dc2c7459dc052e2ade6268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: konig_style03 [s
+    second: {fileID: 2100000, guid: 0458cd32faa38e646957668ee975b007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madeira
+    second: {fileID: 2100000, guid: d67585a8c6fa9694d844d9ab7201fbca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pare [spec]
+    second: {fileID: 2100000, guid: 85e40fa66b2a4094abe835763a041994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire [spec]
+    second: {fileID: 2100000, guid: a25357cbba07ee74b8dfbd9be613167d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ultra [juninho 3
+    second: {fileID: 2100000, guid: 974d1b3199a6a2c42961cdc3a6558be4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

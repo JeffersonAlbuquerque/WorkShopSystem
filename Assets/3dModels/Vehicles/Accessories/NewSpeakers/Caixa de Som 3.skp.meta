@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: d6e63dd5cb5c8a64bafe18a773d601d3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000170000001800000019000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 505f4af5910f82bcb48d795d0852d6e3
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -29.647177, y: 96.511024, z: -185.62735}
+      lookAt: {x: -7.344171, y: 79.95252, z: -140.73814}
+      up: {x: 0.13957036, y: 0.9495304, z: 0.280913}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alto Falante
+    100002: Alto Falante 1
+    100004: //RootNode
+    100006: Group 10
+    100008: Group 12
+    100010: Group 14
+    100012: Group 16
+    100014: Group 18
+    100016: Group 2
+    100018: Group 20
+    100020: Group 4
+    100022: Group 6
+    100024: Group 8
+    400000: Alto Falante
+    400002: Alto Falante 1
+    400004: //RootNode
+    400006: Group 10
+    400008: Group 12
+    400010: Group 14
+    400012: Group 16
+    400014: Group 18
+    400016: Group 2
+    400018: Group 20
+    400020: Group 4
+    400022: Group 6
+    400024: Group 8
+    2300000: Alto Falante
+    2300002: Alto Falante 1
+    2300004: //RootNode
+    2300006: Group 10
+    2300008: Group 12
+    2300010: Group 14
+    2300012: Group 16
+    2300014: Group 18
+    2300016: Group 2
+    2300018: Group 20
+    2300020: Group 4
+    2300022: Group 6
+    2300024: Group 8
+    3300000: Alto Falante
+    3300002: Alto Falante 1
+    3300004: //RootNode
+    3300006: Group 10
+    3300008: Group 12
+    3300010: Group 14
+    3300012: Group 16
+    3300014: Group 18
+    3300016: Group 2
+    3300018: Group 20
+    3300020: Group 4
+    3300022: Group 6
+    3300024: Group 8
+    4300000: Mesh Caixa de Som 3
+    4300002: Mesh Group 2
+    4300004: Mesh Group 8
+    4300006: Mesh Alto Falante
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ALTO FALANTE RCB IMAGEM
+    second: {fileID: 2100000, guid: a6195a473580d844cb7a1f6443602165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M00
+    second: {fileID: 2100000, guid: 984058bb3692b7e44aceab300b6f529b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M09
+    second: {fileID: 2100000, guid: eecdbed3838c14642a6935e55add288f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JBB PNG
+    second: {fileID: 2100000, guid: 2b7fcc62286b0bd418ee4ee568b486d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MEIA NOVE_
+    second: {fileID: 2100000, guid: e86049bd8ff49fb4397b715cfa15daa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _
+    second: {fileID: 2100000, guid: ed6fdf5e61a270e49bd726251a16fb60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 485a47050c1b2d7468712bc80f3cef9b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,3 +1,4 @@
 {
-    "IndexWheel": 1
+    "IndexWheel": 26,
+    "IndexSpeak": 1
 }

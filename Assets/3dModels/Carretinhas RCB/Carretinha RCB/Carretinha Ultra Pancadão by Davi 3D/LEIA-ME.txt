@@ -1,0 +1,17 @@
+Carretinha Ultra Pancadão by Davi 3D|
+------------------------------------|
+Veículo: Erick 3D
+Edit por Davi 3D ® ™
+----------
+INSTALAÇÃO:
+----------
+Antes de tudo, se você não tem o SA ModLoader, baixe-o nesse link: http://goo.gl/MpZBDp
+Esse plugin te permite instalar mods sem precisar substituir nenhum arquivo do jogo.
+
+Instalando o mod:
+.Copie-cole ou mova a pasta 'Carretinha Ultra Pancadão by Davi 3D' para o modloader no diretório do seu GTA SA
+(...\GTA San Andreas\modloader).
+
+------------------------------------------------------
+-ModsGTALeve.blogspot.com
+------------------------------------------------------

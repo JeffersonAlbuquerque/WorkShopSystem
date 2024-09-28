@@ -10,68 +10,100 @@ public class WorkShopSystem : MonoBehaviour
 
     [Header("Wheels Settings")]
     public int Index;
-    public GameObject[] FLS;
-    public GameObject[] FRS;
-    public GameObject[] RLS;
-    public GameObject[] RRS;
+    public GameObject[] WheelFrontLeft;
+    public GameObject[] WheelFrontRight;
+    public GameObject[] WheelRearLeft;
+    public GameObject[] WheekRearRight;
 
     private void Start()
     {
-        DeactivateAllWheels();
         saveGame = GetComponent<Data>();
 
-        if (saveGame != null)
-        {
-            Index = saveGame.IndexWheel;
-            ActivateWheels();
-        }
+        // Desativa todas as rodas inicialmente
+        DeactivateAllWheels();
     }
 
+    // Desativa todas as rodas
     private void DeactivateAllWheels()
     {
-        for (int i = 0; i < FLS.Length; i++)
+        for (int i = 0; i < WheelFrontLeft.Length; i++)
         {
-            FLS[i].SetActive(false);
-            FRS[i].SetActive(false);
-            RLS[i].SetActive(false);
-            RRS[i].SetActive(false);
+            if (WheelFrontLeft[i] != null)
+                WheelFrontLeft[i].SetActive(false);
+            if (WheelFrontRight[i] != null)
+                WheelFrontRight[i].SetActive(false);
+            if (WheelRearLeft[i] != null)
+                WheelRearLeft[i].SetActive(false);
+            if (WheekRearRight[i] != null)
+                WheekRearRight[i].SetActive(false);
         }
     }
 
-    private void ActivateWheels()
+    // Ativa as rodas com base no índice
+    public void ActivateWheels()
     {
-        if (Index >= 0 && Index < FLS.Length)
+        if (Index >= 0 && Index < WheelFrontLeft.Length)
         {
-            FLS[Index].SetActive(true);
-            FRS[Index].SetActive(true);
-            RLS[Index].SetActive(true);
-            RRS[Index].SetActive(true);
+            if (WheelFrontLeft[Index] != null)
+                WheelFrontLeft[Index].SetActive(true);
+            if (WheelFrontRight[Index] != null)
+                WheelFrontRight[Index].SetActive(true);
+            if (WheelRearLeft[Index] != null)
+                WheelRearLeft[Index].SetActive(true);
+            if (WheekRearRight[Index] != null)
+                WheekRearRight[Index].SetActive(true);
+        }
+        else
+        {
+            Debug.LogError("Índice de roda fora dos limites: " + Index);
         }
     }
 
+    // Muda para a roda anterior
     public void WheelLeft()
     {
-        // Atualizar o Index
         Index--;
         if (Index < 0)
         {
-            Index = FLS.Length - 1;
+            Index = WheelFrontLeft.Length - 1;
         }
 
+        // Atualiza as rodas
         DeactivateAllWheels();
         ActivateWheels();
-        saveGame.Save();
+
+        // Salva os dados
+        if (saveGame != null)
+        {
+            saveGame.Save();
+        }
+        else
+        {
+            Debug.LogError("Falha ao salvar: script Data não encontrado.");
+        }
     }
 
+    // Muda para a roda seguinte
     public void WheelRight()
     {
         Index++;
-        if (Index >= FLS.Length)
+        if (Index >= WheelFrontLeft.Length)
         {
             Index = 0;
         }
+
+        // Atualiza as rodas
         DeactivateAllWheels();
         ActivateWheels();
-        saveGame.Save();
+
+        // Salva os dados
+        if (saveGame != null)
+        {
+            saveGame.Save();
+        }
+        else
+        {
+            Debug.LogError("Falha ao salvar: script Data não encontrado.");
+        }
     }
 }

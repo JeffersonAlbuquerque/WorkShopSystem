@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: b18f8845dc7a9b144a5e3dcdbd01b652
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chassis
+    100004: chassis_du
+    100006: chassis_vl
+    100008: Collision
+    100010: Default
+    100012: Default01
+    100014: Default02
+    100016: Default03
+    100018: Default04
+    100020: Default05
+    100022: Default06
+    100024: Default07
+    100026: Default08
+    100028: Default09
+    100030: Default10
+    100032: Default11
+    100034: Default12
+    100036: Default13
+    100038: Default14
+    100040: Default15
+    100042: Default16
+    100044: Default17
+    100046: Default18
+    100048: Default19
+    100050: Default20
+    100052: Default21
+    100054: Default22
+    100056: Default23
+    100058: Default24
+    100060: Default25
+    100062: Default26
+    100064: Default27
+    100066: Default28
+    100068: Default29
+    100070: Default30
+    100072: Default31
+    100074: Default32
+    100076: Default33
+    100078: Default34
+    100080: Default35
+    100082: Default36
+    100084: Default37
+    100086: Default38
+    100088: Default39
+    100090: Default40
+    100092: hookup
+    100094: misc_a
+    100096: Shadow
+    100098: utiltr1
+    100100: wheel
+    100102: wheel_lb_d
+    100104: wheel_lf_d
+    100106: wheel_rb_d
+    100108: wheel_rf_d
+    400000: //RootNode
+    400002: chassis
+    400004: chassis_du
+    400006: chassis_vl
+    400008: Collision
+    400010: Default
+    400012: Default01
+    400014: Default02
+    400016: Default03
+    400018: Default04
+    400020: Default05
+    400022: Default06
+    400024: Default07
+    400026: Default08
+    400028: Default09
+    400030: Default10
+    400032: Default11
+    400034: Default12
+    400036: Default13
+    400038: Default14
+    400040: Default15
+    400042: Default16
+    400044: Default17
+    400046: Default18
+    400048: Default19
+    400050: Default20
+    400052: Default21
+    400054: Default22
+    400056: Default23
+    400058: Default24
+    400060: Default25
+    400062: Default26
+    400064: Default27
+    400066: Default28
+    400068: Default29
+    400070: Default30
+    400072: Default31
+    400074: Default32
+    400076: Default33
+    400078: Default34
+    400080: Default35
+    400082: Default36
+    400084: Default37
+    400086: Default38
+    400088: Default39
+    400090: Default40
+    400092: hookup
+    400094: misc_a
+    400096: Shadow
+    400098: utiltr1
+    400100: wheel
+    400102: wheel_lb_d
+    400104: wheel_lf_d
+    400106: wheel_rb_d
+    400108: wheel_rf_d
+    2100000: vehiclegeneric25
+    2100002: vehiclelights128
+    2100004: Matte_ FFCCCCCC_
+    2100006: corneta [spec]
+    2100008: boot
+    2100010: cromo [spec]
+    2100012: a_o [spec]
+    2100014: Matte_ FFFFFFFF_
+    2100016: Matte_ FFFFFFF01
+    2100018: utiltr192wheel64
+    2100020: vehicletyres128
+    2100022: Default Material
+    2300000: chassis
+    2300002: chassis_vl
+    2300004: Collision
+    2300006: misc_a
+    2300008: Shadow
+    2300010: wheel
+    3300000: chassis
+    3300002: chassis_vl
+    3300004: Collision
+    3300006: misc_a
+    3300008: Shadow
+    3300010: wheel
+    4300000: chassis
+    4300002: chassis_vl
+    4300004: misc_a
+    4300006: wheel
+    4300008: Collision
+    4300010: Shadow
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

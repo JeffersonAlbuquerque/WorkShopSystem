@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 846bd10f293359941bc7953efd354b29
+timeCreated: 1521169448
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Calota_ByT
+    100002: chassi
+    100004: chassis_du
+    100006: hookup
+    100008: jet
+    100010: //RootNode
+    100012: misc_a
+    100014: placa2.dff
+    100016: Reboque_Je
+    100018: tailligh01
+    100020: taillights
+    100022: wheel_lb_d
+    100024: wheel_lf_d
+    100026: wheel_rb_d
+    100028: wheel_rf_d
+    400000: Calota_ByT
+    400002: chassi
+    400004: chassis_du
+    400006: hookup
+    400008: jet
+    400010: //RootNode
+    400012: misc_a
+    400014: placa2.dff
+    400016: Reboque_Je
+    400018: tailligh01
+    400020: taillights
+    400022: wheel_lb_d
+    400024: wheel_lf_d
+    400026: wheel_rb_d
+    400028: wheel_rf_d
+    2100000: 1 [spec]
+    2100002: reboque [bytasso
+    2100004: vehiclelights128
+    2100006: vehiclelights101
+    2100008: vehiclelights102
+    2100010: parafusos [by ta
+    2100012: cores2 [spec]
+    2100014: 5 [spec]
+    2100016: 2 [spec]
+    2100018: 3 [spec]
+    2100020: 4 [spec]
+    2100022: 2 [spec,trans]
+    2100024: seashark [spec]
+    2100026: 1
+    2100028: reboque [bytas01
+    2100030: tire [spec]
+    2300000: Calota_ByT
+    2300002: chassi
+    2300004: jet
+    2300006: misc_a
+    3300000: Calota_ByT
+    3300002: chassi
+    3300004: jet
+    3300006: misc_a
+    4300000: misc_a
+    4300002: chassi
+    4300004: jet
+    4300006: Calota_ByT
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
